@@ -12,6 +12,8 @@ class App extends Component {
         </header>
         <p className="App-intro">
           Testing react application by Kristoff
+
+          Testing commit
         </p>
       </div>
     );
